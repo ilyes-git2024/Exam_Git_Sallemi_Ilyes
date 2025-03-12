@@ -1,1 +1,2 @@
 Ce projet est un examen Git.
+Nouvelle ligne ajoutée.
